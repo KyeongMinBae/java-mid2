@@ -9,7 +9,7 @@ public class HashStart1 {
         inputArray[0] = 1;
         inputArray[1] = 2;
         inputArray[2] = 5;
-        inputArray[3] = 18;
+        inputArray[3] = 8;
         System.out.println("inputArray = " + Arrays.toString(inputArray));
 
         int searchValue = 8;
