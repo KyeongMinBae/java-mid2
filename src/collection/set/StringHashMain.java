@@ -1,6 +1,6 @@
 package collection.set;
 
-public class StrinHashMain {
+public class StringHashMain {
 
     static final int CAPACITY = 10;
 
