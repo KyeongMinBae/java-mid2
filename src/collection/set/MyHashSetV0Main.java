@@ -3,7 +3,7 @@ package collection.set;
 public class MyHashSetV0Main {
 
     public static void main(String[] args) {
-        MyHashSet0 set = new MyHashSet0();
+        MyHashSetV0 set = new MyHashSetV0();
         set.add(1); //0(1)
         set.add(2); //0(n)
         set.add(3); //0(n)
