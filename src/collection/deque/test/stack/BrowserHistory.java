@@ -6,7 +6,7 @@ import java.util.Deque;
 public class BrowserHistory {
 
     private Deque<String> history = new ArrayDeque<>();
-    private String currentPage = nulll;
+    private String currentPage = null;
 
     public void visitPage(String url) {
         if (currentPage != null) {
